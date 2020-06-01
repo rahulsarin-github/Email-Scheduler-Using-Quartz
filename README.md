@@ -11,3 +11,4 @@ Turn ON, Less Secure APP Access<br/>
 
 Postman Json Data for Sending Email:
 
+![2020-06-01 19_30_15-Postman](https://user-images.githubusercontent.com/35772312/83416637-97cddc80-a43e-11ea-9c24-d2884dd1eede.png)
